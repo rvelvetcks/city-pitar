@@ -1,0 +1,11 @@
+Model Information:
+* title:	Geometry nodes futuristic colony city in blender
+* source:	https://sketchfab.com/3d-models/geometry-nodes-futuristic-colony-city-in-blender-1b82892596f449449c1dfb7beb5646f5
+* author:	hackerman_den (https://sketchfab.com/hackerman_den)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Geometry nodes futuristic colony city in blender" (https://sketchfab.com/3d-models/geometry-nodes-futuristic-colony-city-in-blender-1b82892596f449449c1dfb7beb5646f5) by hackerman_den (https://sketchfab.com/hackerman_den) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
